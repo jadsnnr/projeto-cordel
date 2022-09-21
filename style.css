@@ -24,7 +24,7 @@ header>h1{
     padding-top: 50px;
     font-family:'Passion One', cursive;
     font-variant: small-caps;
-    font-size: 15vh;
+    font-size: 10vw;
 }
 
 header>p{
@@ -47,9 +47,36 @@ header a:hover, footer a:hover {
 }
 main{
     font-family:'Sriracha', cursive;
-    font-size: 7vh;
+    font-size: 3.5vw;
 }
 
+div{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+}
+div.img1>p{
+    background-color: rgba(0, 0, 0, 0.411);
+    width: 400px;
+}
+
+.fundo{
+    background-color: white;
+    color: black;
+}
+.img1{
+    background-image: url(Imagens/background001.jpg);
+    color: white;
+    background-color: rgb(36, 34, 34);
+    
+}
+
+.img2{
+    background-image: url(Imagens/background002.jpg);
+    color: white;
+    background-color: rgb(36, 34, 34);
+}
 footer{
     background-color: black;
     color: white;
