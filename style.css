@@ -29,7 +29,6 @@ header>h1{
 
 header>p{
     padding-bottom: 50px;
-    
 }
 
 header p, footer p{
@@ -75,7 +74,6 @@ div.img>p{
     color: white;
     background-color: rgb(36, 34, 34);
     background-size: cover;
-    
 }
 
 #img001{
@@ -83,14 +81,12 @@ div.img>p{
     background-position: right center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
 }
 #img002{
     background-image: url(Imagens/background002.jpg);
     background-position: right center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-   
 }
 
 footer{
